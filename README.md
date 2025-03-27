@@ -25,6 +25,10 @@ The Library Management System is an automated solution that streamlines and simp
 
 
 
+https://github.com/user-attachments/assets/3ab0f78d-389b-4435-9825-1b874335ad20
+
+
+
 ## 👨‍💻Technologies Used
 Java: Core programming language for developing the system.
 
