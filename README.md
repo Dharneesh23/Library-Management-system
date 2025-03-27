@@ -6,6 +6,7 @@ The Library Management System is an automated solution that streamlines and simp
 ## Class Structure 
 
 
+![LMS ed](https://github.com/user-attachments/assets/a9c0b368-1885-4fc6-9087-4c2029a2602c)
 
 ## Features
 
