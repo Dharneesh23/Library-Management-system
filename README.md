@@ -42,6 +42,22 @@ Once you have the system running, here are some key use cases:
 
 👉Book Transactions: Admins can track book borrowing and returning transactions. They can also view the status of books (available, borrowed, or overdue).
 
+👉Add eBooks:
+
+Functionality: Admins can add eBooks to the library system in addition to physical books.
+
+Details Required:
+
+Title
+
+Author
+
+Genre
+
+Availability (e.g., Available, Borrowed, Overdue)
+
+eBook Format (e.g., PDF, ePub, MOBI)
+
 👉Update/Delete Books: Admins have the ability to update book information or delete a book from the system if needed.
 
 ## For Library Members
